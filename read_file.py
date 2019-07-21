@@ -17,5 +17,7 @@ def csv_split_by_ratio_range(ratio_range, in_csv_file, out_csv_file):
     # csv_split_by_ratio_range((0.9, 1), 'spam.csv', 'dev.csv')
 
 
+if __name__==‘__main__’:
+    pass
 
 #
